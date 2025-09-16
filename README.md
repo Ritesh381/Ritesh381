@@ -22,13 +22,6 @@
   <tr>
     <td align="center" width="130">
       <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/></a><br>Node.js
-    </td>
-    <td align="center" width="130">
-      <a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/></a><br>Spring Boot
-    </td>
-    <td align="center" width="130">
-      <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/></a><br>Firebase
-    </td>
     <td align="center" width="130">
       <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/></a><br>MySQL
     </td>
