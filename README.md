@@ -106,17 +106,22 @@
 
 ---
 
-## 📈 GitHub Stats  
+<!-- --- -->
+## 📊 Stats & Contributions
+
+<!-- <div align="center"> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=ritesh381&theme=github_dark&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" /> -->
+  <!-- <img src="https://raw.githubusercontent.com/ritesh381/github-stats/main/stats.svg" alt="stats graph" /> -->
+
+<!-- </div> -->
+
+<!-- --- -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh381&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh381&theme=react-dark&hide_border=true" alt="Ritesh's Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh381&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
+<!-- --- -->
 
 ## 🌐 Connect With Me  
 📧 Email: **prajapatiritesh381@gmail.com**  
