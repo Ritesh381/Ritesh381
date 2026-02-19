@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Fullstack+Developer;AI+%26+Automation+Enthusiast;Competitive+Programmer;Always+Learning+🚀)](https://git.io/typing-svg)
 
-💻 Aspiring **Full-Stack Developer** | 🧠 Exploring **AI + Automation** | 🎯 Passionate about building projects that solve real problems.  
+💻 **Full-Stack Developer** | 🧠 Exploring **AI + Automation** | 🎯 Passionate about building projects that solve real problems.  
 
 ---
 
@@ -77,6 +77,11 @@
     </td>
   </tr>
 </table>
+
+---
+
+## Wall of Hacktoberfest
+[![@Ritesh381's Holopin badges](https://holopin.me/ritesh381)](https://holopin.io/@ritesh381)
 
 ---
 
