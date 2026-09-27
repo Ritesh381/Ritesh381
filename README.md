@@ -86,6 +86,9 @@
 ---
 
 ## 📌 Featured Projects  
+- [**Scaler++**] (https://chromewebstore.google.com/detail/scaler++/fpnleckmeeahiognlpphbadchogfjgcg)
+  2000+ Users || A chrome extension built for scaler.com to optimize the UI and integrate new useful features.
+  
 - 🎬 [**MovieHub**](https://movie-hub404.vercel.app)  
   Movie search & watchlist platform with **AI-powered movie suggestions** (Popcorn Pilot).  
   [GitHub Repo](https://github.com/Ritesh381/Movie-Hub)  
